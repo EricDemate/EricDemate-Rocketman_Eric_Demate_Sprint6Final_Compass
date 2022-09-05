@@ -23,13 +23,7 @@ Para a devida realização desta Spring 6, devemos ter os seguintes softwares in
 <img src="https://user-images.githubusercontent.com/64226050/188331090-3d38de56-f6af-49f8-b1c4-d21a6eeb9818.png" height="26" widht="26">[  *Microsoft Office*](https://www.office.com/) |<img src="https://raw.githubusercontent.com/DannyDainton/newman-reporter-htmlextra/HEAD/examples/NewmanHtmlextraReporterLogo.png" height="22" widht="22">[  *Newman Report HTML*](https://www.npmjs.com/package/newman-reporter-htmlextra) 
 | <img src="https://user-images.githubusercontent.com/64226050/188333230-a1ec96ea-8043-4e19-a894-10c50a15d579.png" height="20" widht="20">[  *Xmind*](https://www.xmind.app/) |
 
-<br><br>
-Para instalação do Newman você deve digitar em um Terminal de comando:
-<br>
-```
-npm install -g newman-reporter-htmlextra
-```
-<br>
+
 
 ___
 <br>
@@ -53,7 +47,7 @@ ___
 * Observações Complementares
 
 ### Relatorio de Execução 
-* Analise de Resultados
+* [Analise de Resultados](https://github.com/EricDemate/EricDemate-Rocketman_Eric_Demate_Sprint6Final_Compass/blob/develop/Postman_Collections_Environments/newman/Relatorio_Newman.pdf)
 * Cobertura de Testes
 * Bugs Encontrados 
 * Montar Issue Template 
