@@ -54,13 +54,14 @@ newman run arquivoCollection.json -e arquivoEnvironment.json -n 4 -r htmlextra
 ```
 **ATENÇÃO NOVAMENTE!**
 
-arquivoCollection.json e arquivoEnvironment.json são os teus arquivos!
+**arquivoCollection.json** e **arquivoEnvironment.json** são os teus arquivos exportados recentemente pelo Postman!
 
 ## eeeeeee.....VUALÁ!!! A mágica está pronta! ##
 
 ![img](https://user-images.githubusercontent.com/64226050/188420128-d38fd2cd-9ccc-4a8b-b6aa-6854fb4e95b3.png)
-____
+
+
+_________________________________________________
 
 ![Banner](https://user-images.githubusercontent.com/64226050/188371378-9f12963c-251c-405f-94a0-f46624065097.png)
-
 
