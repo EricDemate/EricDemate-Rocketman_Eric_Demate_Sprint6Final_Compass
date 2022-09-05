@@ -46,7 +46,7 @@ ___
 * Objetivo
 * Escopo 
 * [Mapa Mental --> Ampliado](https://user-images.githubusercontent.com/64226050/188338377-42b8eb45-21cc-4102-ad91-b09992241d16.png)
-* Suite de Caso de Testes
+* [Suite de Caso de Testes](https://github.com/EricDemate/EricDemate-Rocketman_Eric_Demate_Sprint6Final_Compass/blob/develop/casosDeTeste.md)
 * Priorização de Testes
 * Candidatos para Automação
 * Ferramentas 

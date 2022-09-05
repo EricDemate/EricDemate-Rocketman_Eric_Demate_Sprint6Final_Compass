@@ -61,7 +61,7 @@
 * CT07 Deletar Usuário - c/ êxito
 * CT07.1 Deletar Usuário s/ _id
 * CT07.2 Deletar Usuário Inexistente
-** * CT07.3 Deletar Usuário c/ carrinho
+* CT07.3 Deletar Usuário c/ carrinho
 
 ### CT08- Validar Rota de Remoção de Produto
 
