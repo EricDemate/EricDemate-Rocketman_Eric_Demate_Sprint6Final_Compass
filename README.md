@@ -68,5 +68,8 @@ Foi utilizado como referência para realizar esta Sprint os seguintes materiais:
 * [Newman Reporter: htmlextra | Postman Level Up](https://www.youtube.com/watch?v=8O3ycG-09l0)
 * [Postman - documentação](https://learning.postman.com/docs/getting-started/introduction/)
 
+![Banner](https://user-images.githubusercontent.com/64226050/188371378-9f12963c-251c-405f-94a0-f46624065097.png)
+
+
 
 
